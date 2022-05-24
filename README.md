@@ -1,11 +1,6 @@
 ## Welcome To The Repository K2 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-
-
-
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuliahkaryawank2&theme=xcode)](https://git.io/kuliahkaryawank2)
-
 ## ⚡ Technologies
 
 ### Language :
