@@ -31,10 +31,7 @@
 
 ## List Website Kuliah Karyawan K2
 
-<p align="center">
-
- https://kuliahkaryawank2.github.io/kuliahkaryawanK2/
-</p>
+<a href="https://kuliahkaryawank2.github.io/kuliahkaryawanK2/"><button>Link Website</button></a>
 
 <br>
 
