@@ -2,3 +2,5 @@
 
 # DOMAIN
 https://panca-sakti.info
+https://uwi.web.id
+
